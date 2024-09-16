@@ -31,26 +31,30 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NkEO7OY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Enabling Internet Information Services (IIS) involves activating a Microsoft Windows feature that allows your computer to function as a web server. To do this, you typically access the "Turn Windows features on or off" settings, select IIS from the list, and then install it. This process configures your system to host websites, manage web applications, and handle various web protocols. Once enabled, IIS provides a robust platform for serving web content and applications.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8gruWTD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The Web Platform Installer is a Microsoft tool that simplifies the process of installing and managing web applications and components on a Windows server or client. It provides a user-friendly interface to download and install popular web development tools, frameworks, and platforms, such as IIS, PHP, and SQL Server. By using Web PI, you can quickly set up a development environment or deploy applications with minimal manual configuration.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UZ7ioSo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configured permissions involves setting up user access controls and rights to ensure that individuals or systems can access or modify resources as needed. This process ensures security and proper functionality by specifying who can read, write, or execute files and applications.
+
+Installed osTicket means setting up the osTicket help desk software on your server. osTicket is an open-source ticketing system that helps manage customer support requests. The installation process typically involves downloading the software, configuring server settings, and setting up the system to handle and track support tickets efficiently.
 </p>
 <br />
