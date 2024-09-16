@@ -28,6 +28,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Installed C++ distributable 
 - Configured permissions and installed OSticket
 
+
 <h2>Installation Steps</h2>
 
 <p>
